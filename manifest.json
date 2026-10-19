@@ -1,15 +1,25 @@
 {
+  "id": "/",
   "name": "Unión y Esfuerzo - Cooperativa de Ahorro y Préstamo",
   "short_name": "Unión y Esfuerzo",
+  "description": "Banca en línea y servicios financieros de la Cooperativa de Ahorro y Préstamo Unión y Esfuerzo.",
   "start_url": "./index.html",
   "display": "standalone",
+  "orientation": "portrait",
   "background_color": "#1E2A38",
   "theme_color": "#1E2A38",
   "icons": [
     {
       "src": "1000275398-removebg-preview.png",
-      "sizes": "192x192 512x512",
-      "type": "image/png"
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "1000275398-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
     }
   ]
 }
