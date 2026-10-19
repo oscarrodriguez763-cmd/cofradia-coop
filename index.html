@@ -270,6 +270,32 @@
     }
     .main{padding:18px 14px 50px;}
   }
+  /* Estilos exclusivos para hacer el contenido más cómodo y grande SOLO en celulares */
+@media (max-width: 768px) {
+  /* Aumenta el tamaño general de los textos del panel en el celular */
+  body {
+    font-size: 17px !important; /* Sube la letra base para que no se vea minúscula */
+  }
+
+  /* Hace que las tarjetas y contenedores aprovechen mejor el espacio táctil */
+  .card, .dashboard-container, .main-content {
+    padding: 16px !important;
+    font-size: 16px !important;
+  }
+
+  /* Agranda los botones para que sean fáciles de presionar con el dedo */
+  button, .btn {
+    padding: 14px 18px !important;
+    font-size: 16px !important;
+  }
+
+  /* Ajusta los campos de entrada para evitar el zoom y darles mejor presencia táctil */
+  input, select, textarea, .field input, .field select, .field textarea {
+    font-size: 16px !important;
+    padding: 12px !important;
+  }
+}
+
 </style>
 </head>
 <body>
