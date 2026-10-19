@@ -13,28 +13,36 @@
     {
       "src": "1000275398-removebg-preview.png",
       "sizes": "192x192",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
     },
     {
       "src": "1000275398-removebg-preview.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "1000275398-removebg-preview.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ],
   "screenshots": [
     {
       "src": "Screenshot_Version_Movil.jpg",
-      "sizes": "1080x1920",
+      "sizes": "1080x2186",
       "type": "image/jpeg",
       "form_factor": "narrow",
-      "label": "Vista móvil"
+      "label": "Vista móvil de la aplicación"
     },
     {
       "src": "Screenshot_Version_PC.jpg",
-      "sizes": "1280x720",
+      "sizes": "1080x2076",
       "type": "image/jpeg",
       "form_factor": "wide",
-      "label": "Vista escritorio"
+      "label": "Vista de escritorio de la aplicación"
     }
   ]
 }
