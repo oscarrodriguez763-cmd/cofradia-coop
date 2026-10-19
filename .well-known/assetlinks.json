@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.oscarrodriguez763_cmd.twa",
+        "sha256_cert_fingerprints": ["68:4A:0F:1C:DF:7F:EB:BC:B2:7C:E1:05:98:48:4A:FF:3D:F7:E1:D6:FA:97:22:A8:79:0F:A9:43:6D:A2:A0:EF"]
+      }
+    }]
