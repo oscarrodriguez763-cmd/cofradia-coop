@@ -1,7 +1,7 @@
 {
   "id": "/",
-  "name": "Unión y Esfuerzo - Cooperativa de Ahorro y Préstamo",
-  "short_name": "Unión y Esfuerzo",
+  "name": "Banca En Linea U&E",
+  "short_name": "Banca U&E",
   "description": "Banca en línea y servicios financieros de la Cooperativa de Ahorro y Préstamo Unión y Esfuerzo.",
   "start_url": "./index.html",
   "display": "standalone",
