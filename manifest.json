@@ -1,1 +1,15 @@
-
+{
+  "name": "Unión y Esfuerzo - Cooperativa de Ahorro y Préstamo",
+  "short_name": "Unión y Esfuerzo",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1E2A38",
+  "theme_color": "#1E2A38",
+  "icons": [
+    {
+      "src": "1000275398-removebg-preview.png",
+      "sizes": "192x192 512x512",
+      "type": "image/png"
+    }
+  ]
+}
